@@ -7,3 +7,8 @@ $git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+### Il y a une liste de tâche. Compléter-la
+
+- [ ] Finir les cours de Github
+- [ ] Finir cette liste
+- [ ] Résoudre les problèmes
